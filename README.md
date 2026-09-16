@@ -8,4 +8,4 @@ Este repositório contém a documentação e o relatório detalhado do laborató
 
 Você pode acessar o relatório completo do projeto clicando no link abaixo:
 
-- [📥 Baixar / Visualizar Relatório de Projeto Prático (PDF)](./docs/Relatorio_de_projeto_pratico_DIO.pdf)
+-📥 Visualizar Relatório de Projeto Prático https://canva.link/xmz7lynv9gbn38l
